@@ -33,6 +33,13 @@ The Evolvable-Agent framework consists of several specialized agents working tog
 6. The new version is tested against benchmarks
 7. If performance improves, the changes are adopted
 
+## Features
+
+- [ ] AI auto improve prompt of agent
+- [ ] AI auto add Node to agent
+- [ ] AI auto iterate tool use (MCP) of agent
+...
+
 ## Roadmap
 
 ### Phase 1: Minimum Viable Product
